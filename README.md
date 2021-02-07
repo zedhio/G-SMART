@@ -1,0 +1,2 @@
+# G-SMART
+G-Smart stands for Gatekno Smart. Where Gatekno itself is a Technology Awareness Movement aimed at teachers and students at the elementary school level. G-smart is a database of various kinds of textbooks, worksheets, learning media, videos, and packages of learning evaluation questions at the elementary level. Gatekno is a community service program funded by the Higher Education DRPM. G-Smart is a portal that becomes a tool for elementary school teachers to utilize technology in 21st Century learning.
